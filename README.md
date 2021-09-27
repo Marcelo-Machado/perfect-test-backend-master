@@ -1,6 +1,6 @@
 # Projeto teste PerfectPay
 
-Para iniciar, instale o banco de dados “perfectpay.sql” com a estrutura do projeto, encontra-se na pasta raiz do projeto.
+Para iniciar, instale o arquivo do banco de dados “perfectpay.sql” ou “perfectpay.zip” com a estrutura do projeto (encontra-se na pasta raiz do projeto).
 
 ## Controllers 
 - controlClient:
@@ -43,4 +43,5 @@ Criado 12 rotas de direcionamento.
 
 ## Obs: 
 Todo código está comentado para facilitar o entendimento, todas as funcionalidades (botões) estão funcionando.
+
 
