@@ -4,12 +4,12 @@ Para iniciar, instale o arquivo do banco de dados “perfectpay.sql” ou “per
 Também encontra-se um arquivo chamado “Projeto-Compactado.zip” com o projeto compactado.
 
 ## Banco de dados Mysql 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=perfectpay
-DB_USERNAME=root
-DB_PASSWORD=
+- DB_CONNECTION=mysql
+- DB_HOST=127.0.0.1
+- DB_PORT=3306
+- DB_DATABASE=perfectpay
+- DB_USERNAME=root
+- DB_PASSWORD=
 
 ## Controllers 
 - controlClient:
@@ -50,5 +50,4 @@ Criado 12 rotas de direcionamento.
 
 ## Obs: 
 Todo código está comentado para facilitar o entendimento, todas as funcionalidades (botões) estão funcionando.
-
 
