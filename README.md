@@ -3,6 +3,14 @@
 Para iniciar, instale o arquivo do banco de dados “perfectpay.sql” ou “perfectpay.zip” com a estrutura do projeto (encontra-se na pasta raiz do projeto).
 Também encontra-se um arquivo chamado “Projeto-Compactado.zip” com o projeto compactado.
 
+## Banco de dados Mysql 
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=perfectpay
+DB_USERNAME=root
+DB_PASSWORD=
+
 ## Controllers 
 - controlClient:
 exibe os dados de vendas do cliente e adiciona os clientes.
@@ -40,9 +48,7 @@ Tela principal, não foi modificada, apenas acrescentado um botão para novo cli
 ## Routes
 Criado 12 rotas de direcionamento.
 
-## Banco de dados
-Mysql 
-
-
 ## Obs: 
 Todo código está comentado para facilitar o entendimento, todas as funcionalidades (botões) estão funcionando.
+
+
