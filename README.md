@@ -40,9 +40,9 @@ Tela principal, não foi modificada, apenas acrescentado um botão para novo cli
 ## Routes
 Criado 12 rotas de direcionamento.
 
+## Banco de dados
+Mysql 
 
 
 ## Obs: 
 Todo código está comentado para facilitar o entendimento, todas as funcionalidades (botões) estão funcionando.
-
-
