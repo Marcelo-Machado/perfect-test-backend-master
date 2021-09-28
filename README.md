@@ -1,6 +1,7 @@
 # Projeto teste PerfectPay
 
 Para iniciar, instale o arquivo do banco de dados “perfectpay.sql” ou “perfectpay.zip” com a estrutura do projeto (encontra-se na pasta raiz do projeto).
+Também encontra-se um arquivo chamado “Projeto-Compactado.zip” com o projeto compactado.
 
 ## Controllers 
 - controlClient:
